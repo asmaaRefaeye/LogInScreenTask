@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogInScreen</string>
+    <string name="fistName">Enter your Name</string>
+    <string name="lastName">Enter last Name</string>
+    <string name="Email">Enter correct Email</string>
+    <string name="password">Enter correct password</string>
+    <string name="confirmPassword">Confirm your password</string>
+</resources>
